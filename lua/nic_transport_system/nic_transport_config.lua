@@ -18,3 +18,8 @@ VOY_Transport_System_Config_Main = {
 VOY_Transport_System_Config_Stance = "idle_all_01" -- If you don't know what this is then don't bother
 
 VOY_Transport_System_Config_Model = "models/models/player/cblake/flamebois/cmd_jet/jet.mdl" -- Model, I chose this one because it looks cool.
+
+VOY_Transport_System_Config_NoUseJobs = {
+	["Clone Cadet"] = true,
+	["Citizen"] = true,
+}
